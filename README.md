@@ -1,19 +1,20 @@
-# Module 1 Challenge
+# Website Accessibility Project
 
-## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+## Make the website more accessible and make the code easier to read without changing the function
 
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-* WHEN I view the source code
-* THEN I find semantic HTML elements
-* WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-* WHEN I view the image elements
-* THEN I find accessible alt attributes
-* WHEN I view the heading attributes
-* THEN they fall in sequential order
-* WHEN I view the title element
-* THEN I find a concise, descriptive title
+This project helps understand the concepts of:
+<br>
+-Semantic HTML elements
+<br>
+-Image alt elements
+<br>
+-Titles
+<br>
+-Logical code structure
+
+## Installation
+Open Index.html in a text editor to view the source code and the changes that were made.
+
+
+## License
+Refer to Github for license information.
